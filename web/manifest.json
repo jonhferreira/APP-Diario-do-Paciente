@@ -1,8 +1,8 @@
 {
-    "name": "flutter_web_app",
-    "short_name": "flutter_web_app",
+    "name": "diario_do_paciente",
+    "short_name": "diario_do_paciente",
     "start_url": ".",
-    "display": "minimal-ui",
+    "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
     "description": "A new Flutter project.",
