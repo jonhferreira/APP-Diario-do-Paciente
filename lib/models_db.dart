@@ -1,3 +1,5 @@
+import 'dart:io';
+
 class UserModels {
   String nome = '';
   String sobrenome = '';
@@ -99,6 +101,8 @@ class LembreteModels {
   int ano = 0;
   int mes = 0;
   int dia = 0;
+
+  File a;
 
   LembreteModels(
       this.user, this.anotacao, this.horas, this.ano, this.mes, this.dia);
